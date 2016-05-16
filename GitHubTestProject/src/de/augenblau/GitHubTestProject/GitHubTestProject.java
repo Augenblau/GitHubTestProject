@@ -17,5 +17,7 @@ public class GitHubTestProject extends JFrame {
 		setTitle("GitHubTestProject");
 		setVisible(true);
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
+		
+		//Version 2
 	}
 }
